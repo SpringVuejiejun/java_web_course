@@ -1,0 +1,39 @@
+h1{
+    color:#4d4f53;
+}
+
+/* span{
+    color:#968d92;
+} */
+
+#ys{
+    color:grey;
+}
+
+.cls{
+    color:#968d92;
+}
+
+
+a {
+    color:black;
+    text-decoration:none;/* 设置文本一个标准的文本 */
+}
+
+p {
+    text-indent: 35px;/* 定义第一个行内容的缩进 */
+    line-height: 40px;/* 设置行高 */
+
+
+}
+
+
+#plast{
+    text-align: right;/* 规定元素中的文本的水平对齐方式，有right，left，center三种格式 */
+}
+
+#center{
+    width: 65%;
+/*     margin:0% 17.5% 0% 17.5%; 上 右 下 左*/
+    margin: 0 auto;
+}
